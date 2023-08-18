@@ -1,0 +1,15 @@
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\bin\Debug\net6.0\Bank Card.exe
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\bin\Debug\net6.0\Bank Card.deps.json
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\bin\Debug\net6.0\Bank Card.runtimeconfig.json
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\bin\Debug\net6.0\Bank Card.dll
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\bin\Debug\net6.0\Bank Card.pdb
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\Bank Card.csproj.AssemblyReference.cache
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\Bank Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\Bank Card.AssemblyInfoInputs.cache
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\Bank Card.AssemblyInfo.cs
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\Bank Card.csproj.CoreCompileInputs.cache
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\Bank Card.dll
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\refint\Bank Card.dll
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\Bank Card.pdb
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\Bank Card.genruntimeconfig.cache
+C:\Users\Adeliya\OneDrive\İş masası\my project1\Bank Card\Bank Card\obj\Debug\net6.0\ref\Bank Card.dll
